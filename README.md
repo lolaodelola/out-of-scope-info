@@ -2,7 +2,7 @@
 
 ## Short Description
 
-Out of Scope challenges the W3C's One Web Ethical Web Principle, which says that there is one web that should be freely accessible across regions and cultures. The film and writing explores the history, politics, and culture that led us to the creation of the web, and asks: what if the web was Yoruba?
+Out of Scope challenges the [W3C's One Web Ethical Web Principle](https://www.w3.org/TR/ethical-web-principles/#oneweb), which says that there is one web that should be freely accessible across regions and cultures. The film and writing explores the history, politics, and culture that led us to the creation of the web, and asks: what if the web was Yoruba?
 
 ## Long Description
 
